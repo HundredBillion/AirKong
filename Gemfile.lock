@@ -140,7 +140,7 @@ GEM
       cocaine (~> 0.5.5)
       mime-types
       mimemagic (~> 0.3.0)
-    puma (3.12.1)
+    puma (3.12.2)
     rack (2.0.7)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -249,7 +249,7 @@ DEPENDENCIES
   omniauth (~> 1.9.0)
   omniauth-facebook (~> 4.0)
   paperclip (~> 5.2.0)
-  puma (~> 3.0)
+  puma (~> 3.12)
   rails (~> 5.0.3)
   ransack (~> 1.7)
   sass-rails (~> 5.0)
